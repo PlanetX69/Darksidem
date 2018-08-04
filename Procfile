@@ -1,2 +1,1 @@
-worker: nodemon index.js
-pause
+worker: node index.js
