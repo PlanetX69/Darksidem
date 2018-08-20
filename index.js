@@ -11,7 +11,7 @@ const fetchVideoInfo = require("youtube-info");
 const initcmd = botSettings.initcmd;
 const ytApiKey = botSettings.ytApiKey;
 const youtube = new YouTube(ytApiKey);
-const botkahrba= ['ID']; // الايدي بتاعك انتا ووالادارة
+const botkahrba= ['228174175007801354']; // الايدي بتاعك انتا ووالادارة
 // By : Kahrba. || تم التطوير من قبل كههربا
 const bot = new Discord.Client({
 	disableEveryone: true
